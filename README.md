@@ -1,6 +1,4 @@
-# Zone Test
 
-# The code for the exercise is in src/components/ZoneTest.vue
 
 ## Build Setup
 
