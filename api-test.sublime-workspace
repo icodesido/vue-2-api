@@ -1,0 +1,1047 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"le",
+				"length"
+			],
+			[
+				"filter",
+				"filteredList"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"usr",
+				"userId"
+			],
+			[
+				"post",
+				"postId"
+			],
+			[
+				"pos",
+				"postsRenamedKeys"
+			],
+			[
+				"thu",
+				"thumbnailUrl"
+			],
+			[
+				"merge",
+				"mergedData"
+			],
+			[
+				"merged",
+				"mergedList"
+			],
+			[
+				"mer",
+				"merged"
+			],
+			[
+				"e",
+				"em"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"g",
+				"gulp"
+			],
+			[
+				"u",
+				"util"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"for",
+				"formChecker"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"cont",
+				"content-wrapper"
+			],
+			[
+				"spla",
+				"splash-container"
+			],
+			[
+				"pure",
+				"pure-menu-selected"
+			],
+			[
+				"cus",
+				"custom-language-list"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"spl",
+				"splash-subhead"
+			],
+			[
+				"sp",
+				"splash-container"
+			],
+			[
+				"pure-b",
+				"pure-button-selected"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"co",
+				"content-wrapper"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"pu",
+				"pure-form"
+			],
+			[
+				"ho",
+				"home-menu"
+			],
+			[
+				"put",
+				"pure-button-primary"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"to",
+				"totalInputChars"
+			],
+			[
+				"tota",
+				"totalCharLimit"
+			],
+			[
+				"mu",
+				"multi-input"
+			],
+			[
+				"click",
+				"clicked"
+			],
+			[
+				"ch",
+				"channelsToRender"
+			],
+			[
+				"cli",
+				"clicked"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"matc",
+				"matchedModel"
+			],
+			[
+				"asse",
+				"assetRating"
+			],
+			[
+				"asset",
+				"assetIds"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"ass",
+				"assetList"
+			],
+			[
+				"mod",
+				"models"
+			],
+			[
+				"fit",
+				"filter"
+			],
+			[
+				"prov",
+				"providerName"
+			],
+			[
+				"News",
+				"NewseriesModel"
+			],
+			[
+				"b",
+				"broadcastChannel"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"mode",
+				"model"
+			],
+			[
+				"a",
+				"api"
+			],
+			[
+				"curr",
+				"curr_sec"
+			],
+			[
+				"it",
+				"its	BDD it synchronous"
+			],
+			[
+				"des",
+				"desc	BDD Describe"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"displa",
+				"display"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"main",
+				"maincontainer"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"n",
+				"narrow-box"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bd",
+				"body"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"fis",
+				"first-child"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"bann",
+				"banner-wrapper"
+			],
+			[
+				"footer",
+				"footer_advert"
+			],
+			[
+				"foot",
+				"footer	Tag"
+			],
+			[
+				"border-bo",
+				"border-bottom-style"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"border-",
+				"border-style"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"so",
+				"solid"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"he",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.js",
+			"settings":
+			{
+				"buffer_size": 126,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 419,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/ApiTest.vue",
+			"settings":
+			{
+				"buffer_size": 2338,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"v",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"projec",
+				"Project: Add Folder"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 719.0
+	},
+	"console":
+	{
+		"height": 244.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ivan/Desktop/api-test/package.json",
+		"/Users/ivan/Downloads/lrb-site/resources/assets/js/components/Mustread.vue",
+		"/Users/ivan/Downloads/lrb-site/resources/assets/js/libraries.js",
+		"/Users/ivan/Desktop/vuetest/README.md",
+		"/Users/ivan/Desktop/zone-test/.babelrc",
+		"/Users/ivan/Downloads/lrb-site/resources/views/layouts/app.blade.php",
+		"/Users/ivan/Desktop/zone-test/components/ZoneTest.vue",
+		"/Users/ivan/Desktop/zone-test/css/normalize.css",
+		"/Users/ivan/Desktop/zone-test/css/main.css",
+		"/Users/ivan/Desktop/zone-test/json/sample.json",
+		"/Users/ivan/Downloads/lrb-site/public/index.php",
+		"/Users/ivan/Downloads/lrb-newsletter/special-table.htm",
+		"/Users/ivan/Downloads/lrb-newsletter/most-read-table.htm",
+		"/Users/ivan/Downloads/lrb-newsletter/nin-table.htm",
+		"/Users/ivan/Downloads/lrb-newsletter/archive-table.htm",
+		"/Users/ivan/Downloads/lrb-newsletter/blog-table.htm",
+		"/Users/ivan/Downloads/lrb-newsletter/archive-blog.htm",
+		"/Library/WebServer/Documents/aura-beta/index.php",
+		"/Library/WebServer/Documents/aura-beta/css/style.min.css",
+		"/Users/ivan/Desktop/CV + Website/cover-letter-16.txt",
+		"/Library/WebServer/Documents/aura-beta/products.php",
+		"/Library/WebServer/Documents/aura-beta/quality.php",
+		"/Library/WebServer/Documents/aura-beta/css/style.css",
+		"/Library/WebServer/Documents/aura-beta/img/aura.svg",
+		"/Library/WebServer/Documents/aura-beta/reach.php",
+		"/Library/WebServer/Documents/aura-beta/css/purify.min.css",
+		"/Library/WebServer/Documents/aura-beta/package.json",
+		"/Users/ivan/Downloads/bootstrap-sass/dist/css/bootstrap.css",
+		"/Users/ivan/Downloads/bootstrap-sass/scss/_alert.scss",
+		"/Users/ivan/Downloads/bootstrap/gruntfile.js",
+		"/Users/ivan/Desktop/program.js",
+		"/Library/WebServer/Documents/aura-beta/enquiry-form.php",
+		"/Users/ivan/Downloads/bootstrap/package.json",
+		"/Users/ivan/node_modules/npm/README.md",
+		"/Users/ivan/Downloads/bootstrap/config.json",
+		"/Users/ivan/Downloads/bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/_dropdowns.scss",
+		"/Users/ivan/Desktop/Code Lab/node-test.js",
+		"/Users/ivan/Desktop/Code Lab/backbone lag/ivan-backbone.html",
+		"/Users/ivan/Desktop/node-test.js",
+		"/Users/ivan/Desktop/Code Lab/practice.js",
+		"/Users/ivan/Dropbox/web stuff/date.htm",
+		"/Users/ivan/Desktop/Code Lab/animateBox.js",
+		"/Users/ivan/Downloads/font-awesome-4.6.3/css/font-awesome.css",
+		"/Library/WebServer/Documents/aura-beta/js/main.js",
+		"/Library/WebServer/Documents/aura-beta/.htaccess",
+		"/Library/WebServer/Documents/aura-beta/index2.min.php",
+		"/Library/WebServer/Documents/aura-beta/index.min.php",
+		"/Library/WebServer/Documents/aura-beta/css.min.css",
+		"/Library/WebServer/Documents/aura-beta/main.js",
+		"/Users/ivan/Desktop/JS Sandbox/practice.js",
+		"/Library/WebServer/Documents/aura-beta/css/layouts/style.css",
+		"/Library/WebServer/Documents/aura-beta/css/layouts/marketing.css",
+		"/Library/WebServer/Documents/aura-beta/form-processor.php",
+		"/Users/ivan/Documents/aura/enquiry-form.php",
+		"/Users/ivan/Desktop/sassy/hello-react.htm",
+		"/Users/ivan/Desktop/sassy/package.json",
+		"/Users/ivan/Desktop/sassy/test.css",
+		"/Users/ivan/Desktop/sassy/test.scss",
+		"/Users/ivan/Desktop/test.css",
+		"/Users/ivan/Desktop/test.scss",
+		"/Users/ivan/Desktop/test.scss.css",
+		"/Users/ivan/Documents/aura/enquiry.php",
+		"/Users/ivan/Downloads/aura.svg",
+		"/Users/ivan/Downloads/Aura Metal Logo 2016.svg",
+		"/Library/WebServer/Documents/aura-beta/reach2.php",
+		"/Library/WebServer/Documents/aura-beta/aura-beta.sublime-project",
+		"/Users/ivan/Downloads/pure-layout-marketing/index.html",
+		"/Users/ivan/Desktop/modularsky/express/constants/agents-of-marvel.js",
+		"/Users/ivan/Desktop/modularsky/express/server.js",
+		"/Users/ivan/Desktop/vouchy/option-B.html",
+		"/Users/ivan/Desktop/vouchy/css/styles.css",
+		"/Users/ivan/Desktop/vouchy/voucher-validation.html",
+		"/Users/ivan/Documents/aura/in/lang-switch.php",
+		"/Users/ivan/Documents/aura/es/lang-switch.php",
+		"/Users/ivan/Documents/aura/cn/lang-switch.php",
+		"/Users/ivan/Documents/aura/br/lang-switch.php",
+		"/Users/ivan/Documents/aura/lang-switch.php",
+		"/Users/ivan/Documents/aura/order-form.php",
+		"/Users/ivan/Downloads/ivan-backbone.html",
+		"/Users/ivan/Documents/aura/de/lang-switch.php",
+		"/Users/ivan/Documents/aura/cn/order.php",
+		"/Users/ivan/Documents/aura/cn/enquiry.php",
+		"/Users/ivan/Documents/aura/br/enquiry.htm",
+		"/Users/ivan/Documents/aura/br/order.htm",
+		"/Users/ivan/Documents/aura/cn/enquiry.htm",
+		"/Users/ivan/Documents/aura/cn/order.htm",
+		"/Users/ivan/Documents/aura/de/enquiry.htm",
+		"/Users/ivan/Documents/aura/de/order.htm",
+		"/Users/ivan/Documents/aura/enquiry.htm",
+		"/Users/ivan/Documents/aura/es/enquiry.htm",
+		"/Users/ivan/Documents/aura/es/order.htm",
+		"/Users/ivan/Documents/aura/in/order.htm",
+		"/Users/ivan/Documents/aura/kr/enquiry.htm",
+		"/Users/ivan/Documents/aura/kr/lang-switch.php",
+		"/Users/ivan/Documents/aura/kr/order.htm",
+		"/Users/ivan/Documents/aura/order.htm",
+		"/Users/ivan/Documents/aura/pl/enquiry.htm",
+		"/Users/ivan/Documents/aura/pl/lang-switch.php",
+		"/Users/ivan/Documents/aura/pl/order.htm",
+		"/Users/ivan/Documents/aura/c/global.css",
+		"/Users/ivan/Documents/aura/cn/msds.php",
+		"/Users/ivan/Documents/aura/about.htm",
+		"/Users/ivan/Documents/aura/cn/about.php",
+		"/Users/ivan/Documents/aura/cn/index.php",
+		"/Users/ivan/Documents/aura/cn/pre-registration-list.php",
+		"/Users/ivan/Documents/aura/cn/quality.php",
+		"/Users/ivan/Documents/aura/cn/reach.php",
+		"/Users/ivan/Documents/aura/cn/thanks.htm",
+		"/Users/ivan/Documents/aura/cn/aluminium-alloys.php",
+		"/Users/ivan/Documents/aura/cn/bronze-brass.php",
+		"/Users/ivan/Documents/aura/cn/magnesium-alloys.php",
+		"/Users/ivan/Documents/aura/cn/master-alloys.php",
+		"/Users/ivan/Documents/aura/cn/other-metals.php",
+		"/Users/ivan/Documents/aura/cn/phosphor-copper.php",
+		"/Users/ivan/Documents/aura/cn/products.php",
+		"/Users/ivan/Documents/aura/cn/scrap.php",
+		"/Users/ivan/Documents/aura/cn/zinc-alloys.php",
+		"/Users/ivan/Documents/aura/about.php",
+		"/Users/ivan/Documents/aura/aluminium-alloys.php",
+		"/Users/ivan/Documents/aura/br/about.php",
+		"/Users/ivan/Documents/aura/br/aluminium-alloys.php",
+		"/Users/ivan/Documents/aura/br/bronze-brass.php",
+		"/Users/ivan/Documents/aura/br/enquiry.php",
+		"/Users/ivan/Documents/aura/br/index.php",
+		"/Users/ivan/Documents/aura/br/magnesium-alloys.php",
+		"/Users/ivan/Documents/aura/br/master-alloys.php",
+		"/Users/ivan/Documents/aura/br/msds.php",
+		"/Users/ivan/Documents/aura/br/order.php"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>,/Users/ivan/Desktop/api-test",
+			"<open files>",
+			"/Users/ivan/Documents/aura/",
+			"/Users/ivan/Documents/aura/cn",
+			"/Users/ivan/Documents/aura",
+			"/Users/ivan/Sites/modularsky/skygo-6",
+			"/Users/ivan/Sites/modularsky/v7_2",
+			"/Users/ivan/Sites/modularsky/v11",
+			"/Users/ivan/Sites/modularsky/v7_2",
+			"/Users/ivan/Sites/modularsky/v11",
+			"/Users/ivan/Desktop/Jill-Wooster",
+			"/Users/ivan/Desktop/Jill-Wooster/",
+			"/Users/ivan/Desktop/Jill-Wooster/www"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"10",
+			".js",
+			"Zone",
+			"=",
+			"mergedItem",
+			".commercial-",
+			".commercial-banner",
+			"other-features",
+			"splash-container",
+			"splash",
+			"col-xs-2",
+			"alert-dismissible",
+			"\n",
+			"21",
+			"mod_deflate",
+			"mod_headers",
+			"mod_",
+			"Vary: Accept-Encoding",
+			"<img src=\"img/iso-black.png\" width=\"125\" />",
+			"<img src=\"img/iso-black.png\" width=\"125\">",
+			"e800",
+			"check-square-o",
+			"fa-flask",
+			"fa-asl-interpreting",
+			"fa-check-square",
+			"fa-cubes",
+			"mod_deflate",
+			"48em",
+			"pure-form-thank",
+			"awesome",
+			"-min",
+			"23.",
+			"aura-png",
+			"iso",
+			"iso-",
+			"file-icons",
+			"background-position",
+			"pure-button",
+			"pure-form",
+			"Brazilian",
+			"<link rel=\"stylesheet\" href=\"css/layouts/marketing.css\">",
+			"bg-",
+			"bg-home",
+			"#AECFE5",
+			"#6FBEF3",
+			"deflate",
+			"splash-container",
+			"cover",
+			"splash",
+			"content-wrapper",
+			"splash-container",
+			"content-wrapper",
+			"splash",
+			"splash-container",
+			"splash",
+			"fff",
+			"ff674c",
+			"aaa",
+			"is-left",
+			"alloys",
+			"pure-table",
+			"splash",
+			"logo",
+			".splash",
+			"custom",
+			"logo-cus",
+			"content-wrapper",
+			"48em",
+			"100px",
+			"50%",
+			"content-subhead",
+			"1f8dd6",
+			"pure-menu-link",
+			"is-center",
+			".\n",
+			"opacity",
+			":hover",
+			"dedicated",
+			"pure-menu-heading",
+			"#3d5f1f",
+			"pure-button",
+			".pure-button",
+			"input[type",
+			"marketing",
+			"<li title=\"Coming soon...\">中文</li>",
+			">CN<",
+			">废料<",
+			">A daily metal blog with the market news<",
+			">Against The Grain<",
+			"Email us with your requirements",
+			">Email Enquiry<",
+			"Track the progress of your order",
+			">Order Update<",
+			"关于REACH",
+			">REACH<",
+			"Copyright 2012",
+			"2012",
+			"2001",
+			"filterByGenre",
+			"4970",
+			"channels",
+			"channles",
+			"genres",
+			"#genres",
+			"tvguideview",
+			"tvguide",
+			"goToChannel",
+			"toggleMeta",
+			"6000",
+			"filterChannels",
+			".active",
+			"play",
+			"channels",
+			"tvguide",
+			"TvguideView",
+			".active",
+			".time",
+			"url",
+			"38px",
+			"channels",
+			"channles",
+			"assetdeta",
+			"getAssetDet",
+			"content-ty",
+			"content-",
+			"showNew",
+			"slmvi",
+			"');\n"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			":",
+			"filteredItem",
+			"<img src=\"img/iso-black.png\" width=\"125\" height=\"58\" />",
+			"<img src=\"img/iso-black.png\" width=\"125\" height=\"58\">",
+			"Portuguese Br",
+			"<link rel=\"stylesheet\" href=\"css/style.min.css\">",
+			"ec6d1e",
+			"is-center",
+			"<li style=\"font-size:12.5px\">中文</li>",
+			">中文<",
+			">金属废料<",
+			">金属行业资讯定期更新<",
+			">资讯更新<",
+			"欢迎联系我们",
+			">电子邮件查询<",
+			"追踪你的订单情况",
+			">订单追踪<",
+			">关于REACH<",
+			"关于REACH",
+			"Copyright 2014",
+			"",
+			"curr_sec",
+			"return ",
+			"PUT BORDER RADIUS",
+			"",
+			"class=\"pill_col narrow-box\"",
+			"class=\"pill_col narrow-box edge\"",
+			"class=\"pill_col narrow-box\"",
+			"class=\"pill_col wide-box\"",
+			"",
+			"ScrollingOverflowContainer jspScrollable",
+			"",
+			"<!-- google_ad_section_start -->\n<!-- google_ad_section_start -->\n<!-- google_ad_section_start -->\n",
+			"<!-- google_ad_section_start -->\n<!-- google_ad_section_start -->\n<!-- google_ad_section_start -->\n<!-- google_ad_section_end -->",
+			"",
+			"href=\"http://web.orange.co.uk/",
+			"src=\"http://web.orange.co.uk/images",
+			"src=\"http://web.orange.co.uk/ice_media/",
+			"src=\"web.orange.co.uk/ice_media/",
+			"</strong>",
+			"<strong>",
+			"fonts",
+			"https://github.com/FortAwesome/Font-Awesome/blob/master/f",
+			"class=\"article\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.js",
+					"settings":
+					{
+						"buffer_size": 126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/ApiTest.vue",
+					"settings":
+					{
+						"buffer_size": 2338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1348,
+								1348
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 801.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 90.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"channelsview",
+				"skygo-6/js/views/channels/ChannelsView.js"
+			],
+			[
+				"router",
+				"js/router.js"
+			],
+			[
+				"assetsalltem",
+				"v8/templates/assets/assetsAllTemplate.html"
+			],
+			[
+				"assetscoll",
+				"v8/js/collections/assets/AssetsCollection.js"
+			],
+			[
+				"assetsallview",
+				"v8/js/views/assets/AssetsAllView.js"
+			],
+			[
+				"ondemandscoll",
+				"v7_2/js/collections/ondemands/OndemandsCollection.js"
+			],
+			[
+				"constants",
+				"suggestions2/api/constants.php"
+			],
+			[
+				"index.php",
+				"v8/api/index.php"
+			],
+			[
+				"assets",
+				"v8/templates/assets/assetsTemplate.html"
+			],
+			[
+				"assetlistview",
+				"v8/js/views/assets/AssetsListView.js"
+			],
+			[
+				"router.js",
+				"v8/js/router.js"
+			],
+			[
+				"assetsview",
+				"v8/js/views/assets/AssetsView.js"
+			],
+			[
+				"assetsmode",
+				"v8/js/models/asset/AssetModel.js"
+			],
+			[
+				"assetsco",
+				"estdemo/js/collections/assets/AssetsCollection.js"
+			],
+			[
+				"pl",
+				"planner/planner.json"
+			],
+			[
+				"timeview",
+				"v11/js/views/time/TimeView.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true
+}
